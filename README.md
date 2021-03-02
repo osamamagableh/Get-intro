@@ -12,7 +12,7 @@ now let us know what these states
 3. **stages** : lagged a file’s changed version to be committed in the next snapshot
 
 **the figure bellow shows these stages**
-![stages](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
+![stages](https://blog.udemy.com/wp-content/uploads/2015/08/image016.png)
 
 to use Git you must download it before in your computer
 
