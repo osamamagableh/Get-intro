@@ -72,15 +72,21 @@ create a single value from one or more values.
 
 **This figure below shows some of arithmetic operators**
 
-(Arthmatic Ope)[https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png]
+![Arthmatic Ope](https://www.devopsschool.com/blog/wp-content/uploads/2020/07/JavaScript-Arithmatic-Operators.png)
 
 This example display a personalized welcome message on the page using javaScript. 
 
+
 var greeting= 'Howdy ';
+
 var name= 'Mol ly' ;
+
 c02/js/string-opera tor.js
+
 var welcomeMessage = greeting+ name+ '!';
+
 var el = document.getElementByld('greeting');
+
 el .textContent = welcomeMessage;
 
 ## Function
