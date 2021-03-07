@@ -51,7 +51,7 @@ The for loop work like this
 
 4. statment 3 will do last one (update the counter)
 
-
+-----------------------------------------------------------------
 
 
 
